@@ -1,0 +1,14 @@
+The above programs utilises the <arpa/inet.h> header file which is strictly for Linux. To run the files you need to have Linux environment, you can utilise the WSL(Windows Subsystems for Linux) for this purpose.
+
+How to install WSL-> https://youtu.be/iXAWNVgOUrw?si=DUecHghrOhvWPO6O
+
+follow this link upto the installation of Linux(upto installation of neofetch)
+
+after installing you need to three extra files, follow the given commands:
+
+1) sudo apt install gcc -y
+2) sudo apt install make -y
+3) sudo apt install build-essential -y
+
+
+To run the files, go inside the each folder hold shift key then right click you'll see the command "Open Linux shell here". It's just like opening the terminal of Linux, then follow the usual steps you did in the computer lab.
